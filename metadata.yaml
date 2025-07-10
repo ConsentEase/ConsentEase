@@ -1,0 +1,29 @@
+homepage: "https://consentease.dev"
+documentation: "https://consentease.dev/docs/gtm-integration"
+versions:
+  - sha: initial_release_placeholder
+    changeNotes: |
+      Initial release of ConsentEase GTM Custom Template
+      
+      Features:
+      - External script loading for ConsentEase banner
+      - Google Consent Mode v2 integration
+      - GTM consent listener for real-time updates
+      - GDPR/CCPA compliant consent defaults
+      - Comprehensive error handling and debugging
+      - Support for all ConsentEase banner customization options
+      
+      Configuration:
+      - Website ID input with validation
+      - Consent defaults selection (denied/granted)
+      - Debug logging toggle
+      
+      Permissions:
+      - Script injection from consentease.dev
+      - Global access to ConsentEase API
+      - Cookie access for consent preferences
+      - Logging for debugging purposes
+      
+      The template automatically handles consent state management and 
+      integrates seamlessly with Google Analytics, Google Ads, and other 
+      Google Marketing Platform products through Consent Mode v2.
