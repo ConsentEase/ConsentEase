@@ -1,7 +1,7 @@
 homepage: "https://consentease.dev"
 documentation: "https://consentease.dev/docs/gtm-integration"
 versions:
-  - sha: initial_release_placeholder
+  - sha: ed285342442f80c64d11b75a3ccb241128a361c1
     changeNotes: |
       Initial release of ConsentEase GTM Custom Template
       
