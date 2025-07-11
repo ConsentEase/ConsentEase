@@ -17,7 +17,7 @@ ___INFO___
 {
   "displayName": "ConsentEase Consent Management",
   "description": "Integrate ConsentEase cookie consent management platform with Google Tag Manager. This template loads the ConsentEase banner script and properly configures Google Consent Mode based on user choices.",
-  "categories": ["UTILITY", "CONVERSIONS"],
+  "categories": ["UTILITY", "CONVERSIONS", "ANALYTICS"],
   "securityGroups": [],
   "id": "consentease_cmp",
   "type": "TAG",
